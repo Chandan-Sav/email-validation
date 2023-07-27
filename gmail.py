@@ -21,7 +21,7 @@ if len(email)>=6:
             else:
                 print("Wrong Domain address.!!")
         else:
-            print("A '@' symbol is exceeding in ur email address.")
+            print("A '@' is symbol is exceeding in ur email address.")
     else:
         print("Wrong Character identified! Please enter valid character")
 else:
